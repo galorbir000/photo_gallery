@@ -1,1 +1,1 @@
-baguetteBox.run(".grid_contanier");
+baguetteBox.run(".grid_container");

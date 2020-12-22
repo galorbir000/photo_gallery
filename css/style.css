@@ -1,0 +1,23 @@
+/* ...................................... 
+              Grid-layout
+ ......................................... */
+ .grid_container{
+     max-width: 1000px;
+     display: grid;
+     grid-template-columns: repeat(auto-fill, minmax(100px,190px));
+     grid-row: minmax(100px,190px);
+     grid-gap: 20px;
+    
+ 
+
+    
+     
+ }
+ body{
+     margin-left: 190px;
+ }
+ input [type="search"]{
+     padding: 100px;
+     background-color: blue;
+     height: 1000px;
+ }
